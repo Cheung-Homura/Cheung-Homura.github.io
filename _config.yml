@@ -2,12 +2,12 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
+url: 'https://Cheung-Homura.github.io'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: 
 
 # Title of the Site
-title: What A Theme
+title: Homura's HomePage
 # Description of the Site
 description: A customizable Jekyll portfolio theme
 # URL of Image of the Site
