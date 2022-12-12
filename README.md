@@ -51,3 +51,7 @@
 
 ### License
 The contents of this repository are licensed under the [**GNU General Public License v2.0**](https://github.com/thedevslot/WhatATheme/blob/master/LICENSE)
+
+#Acknowledgement
+The theme is from Sneha Omer, Harsh Trivedi. You can download .zip in [Jekyll](http://jekyllthemes.org/themes/what-a-theme/) or clone the [repository](https://github.com/thedevslot/WhatATheme/)
+
