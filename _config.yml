@@ -11,7 +11,7 @@ title: Homura's HomePage
 # Description of the Site
 description: Homura's HomePage For Study
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
+site-image: ./assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
@@ -34,9 +34,9 @@ disqus-shortname: Homura
 # Name of the Author
 author-name: Homura
 # URL for the Image of the Author
-author-image: /WhatATheme/assets/images/author_image.jpg
+author-image: ./assets/images/author_image.jpg
 # 60 Words About the Author
-author-about: A Postgraduate in Wuhan University. 
+author-about: A Postgraduate From Wuhan University. 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/Cheung-Homura
 
